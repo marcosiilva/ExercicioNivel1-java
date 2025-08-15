@@ -20,7 +20,7 @@ public class AreaRectangle {
         double area = base * altura;
 
         //Saida
-        System.out.printf("A area do retangulo é: %.2f", area);
+        System.out.printf("A area do retângulo é: %.2f", area);
         System.out.println("=== Fim do Programa ===");
         sc.close();
 
